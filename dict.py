@@ -1,0 +1,15 @@
+s={1:'abc',122:'ss'}
+'''
+METHODS
+get
+update 
+values
+keys 
+items
+'''
+#print(s.get(1))
+#print(s.keys())
+#print(s.values())
+#print(s.items())
+#s.update({11:'ssa'})
+ #print(s)
